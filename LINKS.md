@@ -1,0 +1,6 @@
+- https://crates.io/crates/winapi | winapi - crates.io: Rust Package Registry
+- https://github.com/retep998/winapi-rs | retep998/winapi-rs: Rust bindings to Windows API
+- https://doc.rust-lang.org/book/ch19-01-unsafe-rust.html | Unsafe Rust - The Rust Programming Language
+- https://doc.rust-lang.org/nomicon/ffi.html | FFI - The Rustonomicon
+- https://github.com/rust-lang/rfcs/issues/721 | Support application manifests on Windows · Issue #721 · rust-lang/rfcs
+- https://github.com/rust-lang/rust/issues/10512 | Windows: rustc should embed application manifest into executables · Issue #10512 · rust-lang/rust
